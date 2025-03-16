@@ -1,0 +1,8 @@
+ctransformers==0.2.5 # since we run in cpu we give quantized model and we also use langchain
+sentence-transformers==2.2.2 #embedding model from hugging face
+pinecone-client
+langchain==0.0.225
+flask
+
+
+
