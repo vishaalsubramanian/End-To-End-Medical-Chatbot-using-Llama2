@@ -10,3 +10,8 @@ conda create -n mchatbot python=3.8 -y
 conda actiavte mchatbot
 ```
 
+```bash
+pip install -r requirements.txt
+```
+
+
